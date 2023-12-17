@@ -1,0 +1,5 @@
+﻿  main11.cpp
+C:\Users\carte\OneDrive\Cplusplus\Carter's BattleShip\Carter's BattleShip\main11.cpp(120,25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\carte\OneDrive\Cplusplus\Carter's BattleShip\Carter's BattleShip\main11.cpp(344,29): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\carte\OneDrive\Cplusplus\Carter's BattleShip\Carter's BattleShip\main11.cpp(391,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Carter's BattleShip.vcxproj -> C:\Users\carte\OneDrive\Cplusplus\Carter's BattleShip\x64\Debug\Carter's BattleShip.exe
